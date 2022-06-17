@@ -1,0 +1,3 @@
+C:\Users\student\source\repos\Project22\Debug\Project22.exe
+C:\Users\student\source\repos\Project22\Debug\Project22.pdb
+D:\Download\lb2\Debug\Project22.exe
